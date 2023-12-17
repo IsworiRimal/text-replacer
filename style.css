@@ -1,0 +1,135 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #000000;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header img {
+    width: 200px; /* Adjust as needed */
+}
+
+h1 {
+    color: #4a05c8;
+}
+
+#content {
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(106, 203, 228);
+}
+
+label, textarea, input {
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea, input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #7206e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #e107d6;
+}
+
+#output {
+    margin-top: 20px;
+}
+
+#outputText {
+    color: #000000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#copyButton {
+    padding: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #b61934;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#copyButton:hover {
+    background-color: #4c0eb0;
+}
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+a{
+    color:red;
+}
+
+.styled-paragraph {
+    color: #010101;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+.styled-paragraph-c {
+    color: #010101;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #0921bb;
+}
+
+ul, ol {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+li {
+    line-height: 1.5;
+}
+
+strong {
+    color: #040342;
+}
